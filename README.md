@@ -71,7 +71,7 @@ We move these numbers by building experiences worth converting on. Our read is t
 
 ## Why This Role
 
-Centr's subscription business has the brand, the content, the equipment, and the HYROX tailwind. What it's missing is someone to own the funnel that ties them together. If building that sounds like the best problem you could be working on, we'd like to meet you.
+Centr's subscription business has the brand, the content, the equipment, and the HYROX tailwind. What it's missing is a dedicated owner for the funnel that ties them together. If building that sounds like the best problem you could be working on, we'd like to meet you.
 
 
 ## How to Apply

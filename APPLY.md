@@ -1,6 +1,6 @@
 # How to Apply
 
-No resume. No cover letter. No recruiter screen.
+No resume. No cover letter. No recruiter screen. Just a link to your LinkedIn and the file you'll generate below.
 
 We've built a different way to apply. You'll use Claude Code to generate a structured submission that combines how you actually work in the tool with your professional background. It tells us more than a PDF ever could, and it respects your time.
 
@@ -40,6 +40,8 @@ Open the repo in Claude Code and run `/apply`. The command will:
 Read the file it generates and edit anything you'd like, it's yours. Then upload it here:
 
 **[Application form](https://docs.google.com/forms/d/e/1FAIpQLScDOmZ5PMswxNzUU1_11GCPBguE48TJSTqCkX_hs8F65wR4Ug/viewform)**
+
+The form will also ask for a link to your LinkedIn, the one thing we want alongside your generated file.
 
 ---
 

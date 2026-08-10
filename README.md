@@ -3,7 +3,7 @@
 **Reports to:** VP, Product
 **Location:** Remote (US) or Los Angeles, CA hybrid
 
-**Note special application requirements.** No resume. No cover letter. Run the entire process in Claude Code. The session pulls in how you operate. You add your background, and it generates your submission. Clone the repo at https://github.com/centrfit/centr-growth-product then run /apply in Claude Code.
+**Note special application requirements:** No resume. No cover letter. Run the entire process in Claude Code. The session pulls in how you operate. You add your background, and it generates your submission. Clone the repo at https://github.com/centrfit/centr-growth-product then run /apply in Claude Code.
 
 
 ## About Centr

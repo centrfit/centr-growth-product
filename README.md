@@ -3,7 +3,7 @@
 **Reports to:** VP, Product
 **Location:** Remote (US) or Los Angeles, CA hybrid
 
-**Note special application requirements.** No resume. No cover letter. Clone https://github.com/centrfit/centr-growth-product and run `/apply` in Claude Code. The session pulls in how you operate, you add your background, it generates your submission.
+**Note special application requirements.** No resume. No cover letter. Run the entire process in Claude Code. The session pulls in how you operate. You add your background, and it generates your submission. Clone the repo at https://github.com/centrfit/centr-growth-product then run /apply in Claude Code.
 
 
 ## About Centr
@@ -66,7 +66,7 @@ We move these numbers by building experiences worth converting on. Our read is t
 - $150,000–$180,000 base + performance bonus
 - Remote (US) or LA-based hybrid (office 2–3 days/week)
 - Full health benefits, Centr membership, Unlimited PTO
-- A no-ego, high-performance team that moves fast
+- A no-ego, high-performing team that moves fast
 
 
 ## Why This Role

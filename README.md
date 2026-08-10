@@ -36,7 +36,7 @@ We move these numbers by building experiences worth converting on. Our read is t
 
 - Web trial conversion closes a meaningful share of the gap to mobile
 - iOS install → paid conversion improves materially against today's baseline
-- A QR-to-app flow we're proud to point Costco and Academy traffic at
+- A QR-to-app flow we're excited to point Costco and Academy traffic at
 - An in-app equipment upsell surface producing measurable attach from existing subscribers
 - A cancellation flow that recovers a respectable share of would-be churners
 - CAC payback shortened enough that paid spend can scale with confidence

@@ -43,6 +43,8 @@ Read the file it generates and edit anything you'd like, it's yours. Then upload
 
 The form will also ask for a link to your LinkedIn, the one thing we want alongside your generated file.
 
+Submit through the form only. This repo is public, so please don't open a pull request or attach your generated file to an issue, that would expose your details. (Questions are welcome as issues, just not your application file.)
+
 ---
 
 ## What We're Looking For

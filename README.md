@@ -80,7 +80,7 @@ Centr's subscription business has the brand, the content, the equipment, and the
 
 The short version: clone this repo, run `/apply` in Claude Code, and submit the file it generates. No resume, no cover letter, no recruiter screen to get past.
 
-Submit through the application form only. Since this repo is public, please don't open a pull request or attach your file to an issue, that would put your details out in the open. Questions are welcome as issues.
+The application form is the only way to submit. We don't accept applications through GitHub itself.
 
 
 *Centr, LLC is an Equal Opportunity Employer that values inclusion. Centr, LLC welcomes individuals of all backgrounds and experiences to apply.*

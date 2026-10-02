@@ -12,6 +12,8 @@ You'll need [Claude Code](https://docs.anthropic.com/en/docs/claude-code) instal
 
 If you're newer to Claude Code, that's genuinely fine. This role lives in it day to day, so the best thing you can do is spend a week using it on real work, then come back and apply. We'd rather see how you work than how polished your first session looks.
 
+Mostly use Codex? That counts. We're a Claude shop day to day, so this role works in Claude Code, but what we care about most is how you build with AI agents. Clone the repo, ask Codex to follow the steps in `.claude/commands/apply.md` using your Codex usage history in place of the insights report, and note at the top of your file that it's a Codex report.
+
 ---
 
 ## Steps
@@ -51,9 +53,9 @@ Submit through the form only. It's the only way we accept applications; we don't
 
 Your insights report shows how you actually work, which is worth more to us than how a resume reads. We're looking for:
 
-- **Real usage** — someone who uses Claude Code for real work, not who installed it this week
-- **Relevant domain** — subscription funnels, paywalls and pricing, activation and onboarding, experimentation, growth analytics
-- **Builder signal** — you create systems and ship things, not just ask questions
+- **Real usage:** someone who builds with Claude Code (or Codex) on real work, not someone who installed it this week
+- **Relevant domain:** subscription funnels, paywalls and pricing, activation and onboarding, experimentation, growth analytics
+- **Builder signal:** you create systems and ship things, not just ask questions
 
 Your background section tells us whether the experience fits this particular role. Both matter, and we read them together. A strong Claude Code user without subscription-growth depth isn't quite it; a strong growth PM who doesn't work this way isn't either. We're looking for the overlap.
 
